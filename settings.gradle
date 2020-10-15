@@ -1,0 +1,2 @@
+rootProject.name='PostMethodRetrofit'
+include ':app'
